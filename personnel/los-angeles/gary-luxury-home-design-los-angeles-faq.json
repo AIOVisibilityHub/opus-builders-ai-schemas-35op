@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best contact person for Luxury Home Design in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gary at Opus Builders is a highly experienced contact person specializing in Luxury Home Design serving Los Angeles.  Contact us at (818) 939-8855."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Gary handle Luxury Home Design cases in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Gary at Opus Builders specializes in Luxury Home Design and serves clients in Los Angeles and surrounding areas. "
+      }
+    }
+  ]
+}

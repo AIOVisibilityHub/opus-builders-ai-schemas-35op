@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Modern and Minimalist House Trends",
+  "description": "Article discussing the benefits and trends of modern and minimalist home design.",
+  "datePublished": "May 28, 2019",
+  "url": "https://www.opusbuildersla.com/blog/modern-and-minimalist-house-trends",
+  "about": {
+    "@type": "Organization",
+    "name": "Opus Builders",
+    "url": "https://www.opusbuildersla.com/"
+  }
+}
